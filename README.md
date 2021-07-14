@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuqyuqzhang
+- 👋 Hi, I’m @yuqyuqzhang. You can call me Echo.
 - 👩🏻‍💻 I’m a recent graduate from the Master of Data Science, Computational Linguistics program at UBC 
 - 🌱 I’m currently open to opportunities like data analyst/data engineer
 - 📫 You can reach me at echozhang0915@gmail.com
